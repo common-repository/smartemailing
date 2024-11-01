@@ -1,0 +1,45 @@
+{
+    "name": "keltuo\/php-smartemailing",
+    "description": "Smart Emailing API v3 client for PHP",
+    "version": "1.0.1",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "smart emailing",
+        "smart",
+        "emailing",
+        "api",
+        "php",
+        "client"
+    ],
+    "authors": [
+        {
+            "name": "Lukas Paiskr",
+            "email": "lukas@pasysdev.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SmartemailingDeps\\SmartEmailing\\": "src\/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SmartemailingDeps\\SmartEmailing\\Test\\": "tests\/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0",
+        "ext-json": "*",
+        "guzzlehttp\/guzzle": ">=6.2",
+        "symfony\/string": ">=5.1"
+    },
+    "require-dev": {
+        "phpstan\/phpstan": "^1.2.0",
+        "phpunit\/phpunit": "^9.5",
+        "jetbrains\/phpstorm-attributes": "^1.0",
+        "squizlabs\/php_codesniffer": "*",
+        "slevomat\/coding-standard": "^7.0"
+    }
+}

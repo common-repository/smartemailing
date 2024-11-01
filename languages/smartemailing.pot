@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-22T09:31:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: smartemailing\n"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/DownloaderBlock.php:26
+msgid "SmartEmailing Downloader"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/DownloaderBlock.php:34
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/WebformBlock.php:34
+msgid "Title"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/DownloaderBlock.php:42
+msgid "Contact list"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/WebformBlock.php:26
+msgid "SmartEmailing Webform"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/WebformBlock.php:42
+msgid "Form"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:113
+msgid "The bulk upload of customers to SmartEmailing is pending."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:193
+msgid "The bulk upload of orders to SmartEmailing is pending."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:213
+msgid "bulk upload of customers"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:214
+msgid "bulk upload of orders"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:219
+msgid "The action for %s was scheduled and will be running in the background soon."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:61
+msgid "The data for communication with the API is not filled in. Please fill in the API data first and save it."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:367
+msgid "Placed"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:368
+msgid "Processing"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:369
+msgid "Shipped"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:370
+msgid "Cancelled"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:371
+msgid "Unknown"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:428
+msgid "Error: %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:431
+msgid "SmartEmailing lists has been updated."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Plugin.php:32
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/PostTypes/ProductPostType.php:43
+msgid "Lists"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/PostTypes/ProductPostType.php:49
+msgid "Add to lists"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/PostTypes/ProductPostType.php:57
+msgid "Statuses"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:41
+msgid "API username"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:46
+msgid "API key"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:51
+msgid "SmartEmailing GUID"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:56
+msgid "E-shop name"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:61
+msgid "Enable frontend tracking"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:67
+msgid "Disable tracking by cookie"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:68
+msgid "You need consent from the visitor for marketing cookies. If you don`t enter the name and value of the marketing cookie data will be sent as if consent had been given."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:71
+msgid "Cookie rules"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:76
+msgid "Rule type"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:77
+msgid "Select when trekking should be prohibited."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:82
+msgid "If the cookie has a value"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:86
+msgid "If the cookie does not have a value"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:93
+msgid "Cookie name"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:94
+msgid "Enter the name of the cookie."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:99
+msgid "Cookie value"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:100
+msgid "Enter the value of the cookie."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:107
+msgid "Update lists"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:138
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:144
+msgid "Default lists"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:145
+msgid "Subscribers will be subscribed by default into the selected lists. You can add product specific lists in the product settings."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:154
+msgid "Order statuses"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:155
+msgid "To pair WooCommerce order statuses to SmartEmailing statuses. Default is \"placed\" when not specified."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:160
+msgid "WooCommerce order status"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:175
+msgid "SmartEmailing order status"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:185
+msgid "Show checkbox"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:186
+msgid "Check to show checkbox on checkout"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:191
+msgid "Checkbox checked by default"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:192
+msgid "Select to check the checkbox by default"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:197
+msgid "Subscription text"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:198
+msgid "Enter the subscription text on checkout"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:201
+msgid "I'd like to receive news"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:205
+msgid "Bulk uploads"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:232
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:233
+msgid "SmartEmailing"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetDownloader.php:15
+msgid "SmartEmailing - Download Count"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetDownloader.php:17
+msgid "Download count of your list"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetWebform.php:15
+msgid "SmartEmailing - Web form"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetWebform.php:17
+msgid "Embed web form"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetWebform.php:45
+msgid "Web form"
+msgstr ""

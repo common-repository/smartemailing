@@ -1,0 +1,351 @@
+# Copyright (C) 2022 WPify
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpify Woo Smartemailing WPIFY_VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-22T09:29:41+00:00\n"
+"PO-Revision-Date: 2023-05-22 11:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Domain: smartemailing\n"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/DownloaderBlock.php:26
+#, fuzzy
+#| msgid "SmartEmailing GUID"
+msgid "SmartEmailing Downloader"
+msgstr "SmartEmailing GUID"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/DownloaderBlock.php:34
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/WebformBlock.php:34
+msgid "Title"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/DownloaderBlock.php:42
+msgid "Seznam kontaktů"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/WebformBlock.php:26
+#, fuzzy
+#| msgid "SmartEmailing GUID"
+msgid "SmartEmailing Webform"
+msgstr "SmartEmailing GUID"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Blocks/WebformBlock.php:42
+msgid "Form"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:113
+msgid "The bulk upload of customers to SmartEmailing is pending."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:193
+msgid "The bulk upload of orders to SmartEmailing is pending."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:213
+msgid "bulk upload of customers"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:214
+msgid "bulk upload of orders"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Features/BulkUpload.php:219
+msgid ""
+"The action for %s was scheduled and will be running in the background soon."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:61
+msgid ""
+"The data for communication with the API is not filled in. Please fill in the "
+"API data first and save it."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:367
+msgid "Placed"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:368
+msgid "Processing"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:369
+msgid "Shipped"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:370
+msgid "Cancelled"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:371
+msgid "Unknown"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:428
+msgid "Error: %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Integrations/SmartEmailingApi.php:431
+msgid "SmartEmailing lists has been updated."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Plugin.php:32
+msgid "Settings"
+msgstr "Nastavení"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/PostTypes/ProductPostType.php:43
+msgid "Lists"
+msgstr "Seznamy"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/PostTypes/ProductPostType.php:49
+msgid "Add to lists"
+msgstr "Přidat do seznamů"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/PostTypes/ProductPostType.php:57
+msgid "Statuses"
+msgstr "Stavy"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:41
+#, fuzzy
+#| msgid "Api username"
+msgid "API username"
+msgstr "Uživatelské jméno API"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:46
+#, fuzzy
+#| msgid "Api key"
+msgid "API key"
+msgstr "API klíč"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:51
+msgid "SmartEmailing GUID"
+msgstr "SmartEmailing GUID"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:56
+msgid "E-shop name"
+msgstr "Název e-shopu"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:61
+msgid "Enable frontend tracking"
+msgstr "Povolit sledování na frontendu"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:67
+#, fuzzy
+#| msgid "Marketing cookie"
+msgid "Disable tracking by cookie"
+msgstr "Marketingová cookie"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:68
+msgid ""
+"You need consent from the visitor for marketing cookies. If you don`t enter "
+"the name and value of the marketing cookie data will be sent as if consent "
+"had been given."
+msgstr ""
+"Pro marketingové soubory cookie potřebujete souhlas návštěvníka. Pokud "
+"nezadáte název a hodnotu marketingového souboru cookie, budou data odeslány, "
+"jako by byl souhlas udělen."
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:71
+msgid "Cookie rules"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:76
+msgid "Rule type"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:77
+msgid "Select when trekking should be prohibited."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:82
+msgid "If the cookie has a value"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:86
+msgid "If the cookie does not have a value"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:93
+#, fuzzy
+#| msgid "Marketing cookie name"
+msgid "Cookie name"
+msgstr "Název marketingového cookie"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:94
+msgid "Enter the name of the cookie."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:99
+#, fuzzy
+#| msgid "Marketing cookie value"
+msgid "Cookie value"
+msgstr "Hodnota marketingového cookie"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:100
+msgid "Enter the value of the cookie."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:107
+msgid "Update lists"
+msgstr "Aktualizovat seznamy"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:138
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:144
+msgid "Default lists"
+msgstr "Výchozí seznamy"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:145
+msgid ""
+"Subscribers will be subscribed by default into the selected lists. You can "
+"add product specific lists in the product settings."
+msgstr ""
+"Odběratelé budou ve výchozím nastavení přihlášeni do vybraných seznamů. V "
+"nastavení produktu můžete přidat seznamy specifické pro daný produkt."
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:154
+#, fuzzy
+#| msgid "Statuses"
+msgid "Order statuses"
+msgstr "Stavy"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:155
+msgid ""
+"To pair WooCommerce order statuses to SmartEmailing statuses. Default is "
+"\"placed\" when not specified."
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:160
+msgid "WooCommerce order status"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:175
+#, fuzzy
+#| msgid "SmartEmailing GUID"
+msgid "SmartEmailing order status"
+msgstr "SmartEmailing GUID"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:185
+msgid "Show checkbox"
+msgstr "Zobrazit checkbox"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:186
+msgid "Check to show checkbox on checkout"
+msgstr "Zobrazit v pokladně checkbox"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:191
+msgid "Checkbox checked by default"
+msgstr "Checkbox defaultně zaškrtnutý"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:192
+msgid "Select to check the checkbox by default"
+msgstr "Zaškrtněte aby checkbox byl ve výchozím stavu zaškrtnuto"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:197
+msgid "Subscription text"
+msgstr "Text k odběru"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:198
+msgid "Enter the subscription text on checkout"
+msgstr "Zadejte text checkboxu pro příhlášení k odběru"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:201
+msgid "I'd like to receive news"
+msgstr "Mám zájem o zasílání novinek"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:205
+msgid "Bulk uploads"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:232
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Settings/GeneralSettings.php:233
+#, fuzzy
+#| msgid "SmartEmailing GUID"
+msgid "SmartEmailing"
+msgstr "SmartEmailing GUID"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetDownloader.php:15
+#, fuzzy
+#| msgid "SmartEmailing GUID"
+msgid "SmartEmailing - Download Count"
+msgstr "SmartEmailing GUID"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetDownloader.php:17
+msgid "Download count of your list"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetWebform.php:15
+#, fuzzy
+#| msgid "SmartEmailing GUID"
+msgid "SmartEmailing - Web form"
+msgstr "SmartEmailing GUID"
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetWebform.php:17
+msgid "Embed web form"
+msgstr ""
+
+#: wp-content/plugins/wordpress-woo-commerce-plugin/src/Widgets/WidgetWebform.php:45
+msgid "Web form"
+msgstr ""
+
+#~ msgid "Wpify Woo Smartemailing for WooCommerce"
+#~ msgstr "Integrace Smartemailing pro WooCommerce"
+
+#~ msgid "WPify"
+#~ msgstr "WPify"
+
+#~ msgid "https://www.wpify.io/"
+#~ msgstr "https://www.wpify.io/cs"
+
+#~ msgid "License"
+#~ msgstr "Licence"
+
+#~ msgid "Enter your license key"
+#~ msgstr "Vložte váš licenční klíč"
+
+#~ msgid ""
+#~ "Enter the name of the cookie that represents the agreed marketing "
+#~ "cookies. For example, in the case of using the \"Complianz\" plugin, this "
+#~ "is <code>cmplz_marketing</code>."
+#~ msgstr ""
+#~ "Zadejte název souboru cookie, který představuje povolení marketingovích "
+#~ "souborů cookie. Například v případě použití pluginu \"Complianz\" je to "
+#~ "<code>cmplz_marketing</code>."
+
+#~ msgid ""
+#~ "Enter the value of the cookie that represents the agreed marketing "
+#~ "cookies. For example, in the case of using the \"Complianz\" plugin, this "
+#~ "is <code>allow</code>."
+#~ msgstr ""
+#~ "Zadejte hodnotu souboru cookie, která představuje povolení marketingovích "
+#~ "souborů cookie. Například v případě použití pluginu \"Complianz\" je to "
+#~ "<code>allow</code>."
+
+#~ msgid "Get more plugins and support"
+#~ msgstr "Více pluginů a podpora"
+
+#~ msgid ""
+#~ "Opps! %s requires a minimum PHP version of %s. Your current version is: "
+#~ "%s. Please contact your host to upgrade."
+#~ msgstr ""
+#~ "Jejda! %s vyžaduje minimální verzi PHP %s. Vaše aktuální verze je: %s. "
+#~ "Kontaktujte prosím svého hostitele a požádejte ho o aktualizaci."
+
+#~ msgid "Opps! %s is corrupted it seems, please re-install the plugin."
+#~ msgstr ""
+#~ "Jejda! Zdá se, že %s je poškozený, nainstalujte prosím plugin znovu."
+
+#~ msgid ""
+#~ "Plugin %s requires WooCommerce. Please install and activate it first."
+#~ msgstr ""
+#~ "Plugin %s vyžaduje WooCommerce. Před použítím pluginu ho nainstalujte a "
+#~ "aktivujte."
